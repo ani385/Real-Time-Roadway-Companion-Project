@@ -1,0 +1,26 @@
+CrowdHumanDataset citation:
+  
+@article{shao2018crowdhuman,
+    title={CrowdHuman: A Benchmark for Detecting Human in a Crowd},
+    author={Shao, Shuai and Zhao, Zijian and Li, Boxun and Xiao, Tete and Yu, Gang and Zhang, Xiangyu and Sun, Jian},
+    journal={arXiv preprint arXiv:1805.00123},
+    year={2018}
+  }
+
+
+Lisa US citation:
+
+Andreas Møgelmose, Mohan M. Trivedi, and Thomas B. Moeslund, “Vision based Traffic Sign Detection and Analysis for Intelligent Driver Assistance Systems: Perspectives and Survey,” IEEE Transactions on Intelligent Transportation Systems, 2012.
+    
+    
+GTSRB citation:
+
+J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011.
+
+@inproceedings{Stallkamp-IJCNN-2011,
+    author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel},
+    booktitle = {IEEE International Joint Conference on Neural Networks},
+    title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition},
+    year = {2011},
+    pages = {1453--1460}
+}
